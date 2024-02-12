@@ -1,0 +1,95 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "To Validate the User Experience and performance of the Conqt web",
+        "description": "",
+        "id": "to-validate-the-performance-of-the-conqt-website;to-validate-the-user-experience-and-performance-of-the-conqt-web",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 24369747100,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "To validate performance of main page",
+            "match": {
+              "location": "StepDefnition.to_validate_performance_of_main_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4515017000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To check the product page",
+            "match": {
+              "location": "StepDefnition.to_check_the_product_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 13408085200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To analyze user experience in AWS Cloud page",
+            "match": {
+              "location": "StepDefnition.to_analyze_user_experience_in_AWS_Cloud_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8998149400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To analyze user experience FAQs page",
+            "match": {
+              "location": "StepDefnition.to_analyze_user_experience_FAQs_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7541721900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To check Conqt University page",
+            "match": {
+              "location": "StepDefnition.to_check_Conqt_University_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 230367000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Quit Browser",
+            "match": {
+              "location": "StepDefnition.quit_Browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Validate the Performance of the Conqt Website",
+    "description": "",
+    "id": "to-validate-the-performance-of-the-conqt-website",
+    "keyword": "Feature",
+    "uri": "src/test/resources/conqtt.feature",
+    "tags": []
+  }
+]

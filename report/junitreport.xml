@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="59.069426">
+    <testcase classname="To Validate the Performance of the Conqt Website" name="To Validate the User Experience and performance of the Conqt web" time="59.069426">
+        <system-out><![CDATA[Given To validate performance of main page..................................passed
+When To check the product page..............................................passed
+And To analyze user experience in AWS Cloud page............................passed
+And To analyze user experience FAQs page....................................passed
+And To check Conqt University page..........................................passed
+Then Quit Browser...........................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
